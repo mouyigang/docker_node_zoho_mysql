@@ -4,7 +4,6 @@
   "dependencies": {
     "express": "^4.10.6",
     "body-parser":"^1.13.3",
-    "mysql": "^2.5.4",
-    "zoho": "^0.4.1"
+    "mysql": "^2.5.4"
   }
 }
